@@ -1,42 +1,43 @@
 Puesto	User 1	Nombre 1	Asistencia	User 2	Nombre 2	Asistencia
-**B23 01-A** 	 mrdelanghe 	 Martin Delanghe 		  	   	
-**B23 01-B/C** 	 cretos032 	 Eduardo Molina 		 swidemann 	 Steffan Widemann 	
-**B23 01-D/E** 	 sfga 	 Simon Garces 		 Amanriquez11 	 Andres Manriquez 	
-**B23 01-F/G** 	 cmgainza 	 Constanza Gainza 		 pinavarrete 	 Patricio Navarrete 	
-**B23 01-H/I** 	 jpflores1 	 Juan Flores 		 rolfskog 	 Rolf Skog 	
-**B23 02-A/B** 	 Deinis210 	 Daniela Risso 		 Zekayrus 	 Diego Alvarez 	
-**B23 02-C/D** 	 glbello 	 Gonzalo Bello 		 ndleyton 	 Nicolas Leyton 	
-**B23 02-G/H** 	 pggodoy 	 Pablo Godoy 		 npcariman 	 Nawel Cariman 	
-**B23 02-I/J** 	 bvfernandez 	 Bernardita Fernandez 		 fabraghetto 	 Franco Braghetto 	
-**B23 03-A/B** 	 martinvidal 	 Martin Vidal 		 Fhgajardo 	 Felipe Gajardo 	
-**B23 03-C/D** 	 FJavierOss 	 Francisco Ossandon 		 vacodoceo 	 Verner Codoceo 	
-**B23 03-G/H** 	 TomasFuentes 	 Tomas Fuentes 		 Riarrieta 	 Rodrigo Arrieta 	
-**B23 03-I/J** 	 dnalfaro 	 Diego Alfaro 		 lareyes2 	 Lesly Reyes 	
-**B23 04-A/B** 	 nrfreudenberg 	 Nicolas Freudenberg 		 pasilva11 	 Patricia Silva 	
-**B23 04-C/D** 	 mraddatz 	 Martin Raddatz 		 sguerra2 	 Sebastian Guerra 	
-**B23 04-G/H** 	 ireyes96 	 Jose Reyes 		 HenryBlairG 	 Henry Blair 	
-**B23 04-I/J** 	 mlbisso 	 Mauro Bisso 		 Mahund 	 Michael Hund 	
-**B23 05-A/B** 	 srvasquez 	 Sebastian Vasquez 		 roy350 	 Rodrigo Cortes 	
-**B23 05-C/D** 	 franciscoalessandri 	 Francisco Alessandri 		 Gonzalo-Perez 	 Gonzalo Perez 	
-**B23 05-G/H** 	 ijlabarca 	 Ignacio Labarca 		 The-Big-Lebowski 	 Javier Rabba 	
-**B23 05-I/J** 	 Sgwa 	 Sebastian Grez 		 cameneses 	 Cesar Meneses 	
-**B23 06-A/B** 	 PaulinaAraya 	 Paulina Araya 		 CrescenteUC 	 Crescente Joglar 	
-**B23 06-C/D** 	 gebalassa 	 Gabriel Balassa 		 fipaniagua 	 Francisco Paniagua 	
-**B23 06-G/H** 	 smargozzini 	 Sebastian Margozzini 		 benjamin22016 	 Benjamin Alvarez 	
-**B23 06-I/J** 	 fnmendez 	 Franco Mendez 		 Genaron 	 Genaro Laymuns 	
-**B23 07-A/B** 	 sebacruzd 	 Sebastian Cruz 		 joseluishaddad 	 Jose Haddad 	
-**B23 07-C/D** 	 tibrahm 	 Thomas Brahm 		 abannura 	 Andres Bannura 	
-**B23 07-G/H** 	 dagalloso 	 Daniel Galloso 		 jmcomber 	 Jose Comber 	
-**B23 07-I/J** 	 aiquinones 	 Alejandro Quiã‘Ones 		 bvantellic 	 Bruno Vantelli 	
-**B23 08-A/B** 	 vureyes 	 Vicente Reyes 		 DiegoAndai 	 Diego Andai 	
-**B23 08-C/D** 	 ofvera 	 Octavio Vera 		 danyestay 	 Daniel Estay 	
-**B23 08-G/H** 	 jabugmann 	 Joaquin Bugmann 		 npinochet 	 Nicolas Pinochet 	
-**B23 08-I/J** 	 tnmarin 	 Tomas Marin 		 rorufuuu 	 Rolf Sommer 	
-**B23 09-A/B** 	 fernddevidts 	 Fernanda Delgado 		 Dalal15 	 Dalal Chahuan 	
-**B23 09-C/D** 	 Skablop 	 Benjamin Pizarro 		 Tomizaky 	 Tomas Verdugo 	
-**B23 09-G/H** 	 fivargas 	 Felipe Vargas 		 tafuenza 	 Tomas Fuenzalida 	
-**B23 09-I/J** 	 Micostabal 	 Martin Costabal 		 difischer 	 Diego Fischer 	
-**B23 10-A/B** 	 alainrochette 	 Alain Rochette 		 Muiturriaga 	 Marcelo Iturriaga 	
+**B23 01-A** 	 mrdelanghe 	 Martin Delanghe 	T	  	   	
+**B23 01-B/C** 	 cretos032 	 Eduardo Molina 	T	 swidemann 	 Steffan Widemann 	T
+**B23 01-D/E** 	 sfga 	 Simon Garces 	T	 Amanriquez11 	 Andres Manriquez 	
+**B23 01-F/G** 	 cmgainza 	 Constanza Gainza 	T	 pinavarrete 	 Patricio Navarrete 	T
+**B23 01-H/I** 	 jpflores1 	 Juan Flores 	T	 rolfskog 	 Rolf Skog 	T
+**B23 02-A/B** 	 Deinis210 	 Daniela Risso 	T	 Zekayrus 	 Diego Alvarez 	T
+**B23 02-C/D** 	 glbello 	 Gonzalo Bello 	T	 ndleyton 	 Nicolas Leyton 	T
+**B23 02-G/H** 	 pggodoy 	 Pablo Godoy 	T	 npcariman 	 Nawel Cariman 	T
+**B23 02-I/J** 	 bvfernandez 	 Bernardita Fernandez 	T	 fabraghetto 	 Franco Braghetto 	T
+**B23 03-A/B** 	 martinvidal 	 Martin Vidal 	T	 Fhgajardo 	 Felipe Gajardo 	T
+**B23 03-C/D** 	 FJavierOss 	 Francisco Ossandon 	T	 vacodoceo 	 Verner Codoceo 	T
+**B23 03-G/H** 	 TomasFuentes 	 Tomas Fuentes 	T	 Riarrieta 	 Rodrigo Arrieta 	T
+**B23 03-I/J** 	 dnalfaro 	 Diego Alfaro 	T	 lareyes2 	 Lesly Reyes 	T
+**B23 04-A/B** 	 nrfreudenberg 	 Nicolas Freudenberg 	T	 pasilva11 	 Patricia Silva 	T
+**B23 04-C/D** 	 mraddatz 	 Martin Raddatz 	T	 sguerra2 	 Sebastian Guerra 	T
+**B23 04-G/H** 	 ireyes96 	 Jose Reyes 	T	 HenryBlairG 	 Henry Blair 	T
+**B23 04-I/J** 	 mlbisso 	 Mauro Bisso 	T	 Mahund 	 Michael Hund 	T
+**B23 05-A/B** 	 srvasquez 	 Sebastian Vasquez 	T	 roy350 	 Rodrigo Cortes 	T
+**B23 05-C/D** 	 franciscoalessandri 	 Francisco Alessandri 	T	 Gonzalo-Perez 	 Gonzalo Perez 	T
+**B23 05-G/H** 	 ijlabarca 	 Ignacio Labarca 		 The-Big-Lebowski 	 Javier Rabba 	T
+**B23 05-I/J** 	 Sgwa 	 Sebastian Grez 	T	 cameneses 	 Cesar Meneses 	T
+**B23 06-A/B** 	 PaulinaAraya 	 Paulina Araya 	T	 CrescenteUC 	 Crescente Joglar 	T
+**B23 06-C/D** 	 gebalassa 	 Gabriel Balassa 	T	 fipaniagua 	 Francisco Paniagua 	T
+**B23 06-G/H** 	 smargozzini 	 Sebastian Margozzini 	T	 benjamin22016 	 Benjamin Alvarez 	T
+**B23 06-I/J** 	 fnmendez 	 Franco Mendez 	T	 Genaron 	 Genaro Laymuns 	T
+**B23 07-A/B** 	 sebacruzd 	 Sebastian Cruz 	T	 joseluishaddad 	 Jose Haddad 	T
+**B23 07-C/D** 	 tibrahm 	 Thomas Brahm 	T	 abannura 	 Andres Bannura 	T
+**B23 07-G/H** 	 dagalloso 	 Daniel Galloso 	T	 jmcomber 	 Jose Comber 	T
+**B23 07-I/J** 	 aiquinones 	 Alejandro Quiã‘Ones 	T	 bvantellic 	 Bruno Vantelli 	T
+**B23 08-A/B** 	 vureyes 	 Vicente Reyes 	T	 DiegoAndai 	 Diego Andai 	T
+**B23 08-C/D** 	 ofvera 	 Octavio Vera 	T	 danyestay 	 Daniel Estay 	T
+**B23 08-G/H** 	 jabugmann 	 Joaquin Bugmann 	T	 npinochet 	 Nicolas Pinochet 	T
+**B23 08-I/J** 	 tnmarin 	 Tomas Marin 	T	 rorufuuu 	 Rolf Sommer 	T
+**B23 09-A/B** 	 fernddevidts 	 Fernanda Delgado 	T	 Dalal15 	 Dalal Chahuan 	T
+**B23 09-C/D** 	 Skablop 	 Benjamin Pizarro 	T	 Tomizaky 	 Tomas Verdugo 	T
+**B23 09-G/H** 	 fivargas 	 Felipe Vargas 	T	 tafuenza 	 Tomas Fuenzalida 	T
+**B23 09-I/J** 	 Micostabal 	 Martin Costabal 	T	 difischer 	 Diego Fischer 	T
+**B23 10-A/B** 	 alainrochette 	 Alain Rochette 	T	 Muiturriaga 	 Marcelo Iturriaga 	T
+**B23 10-A/B** 	 mgabrielam	 Gabriela Cajamarca	T			
 **B24 01-A** 	 Nebula2028 	 Patricio Salgado 	T	  	   	
 **B24 01-B/C** 	 degutierrez1 	 Diego Gutierrez 	T	 sschwarzenberg 	 Sofia Schwarzenberg 	T
 **B24 01-D/E** 	 rodrigozs 	 Rodrigo Zapata 	T	 rrfoster 	 Roberto Foster 	T
